@@ -1,4 +1,5 @@
-#TBG README - AEdan McLaughlin 
+#TBG README - Aedan McLaughlin 
+#Hill 493
 
 In this game you start with your platoon right after capturing an enemy mill. 
 
